@@ -1,12 +1,12 @@
 (function (blink) {
 	'use strict';
 
-	var CengageUKStyle = function () {
+	var GobalLTtyle = function () {
 			blink.theme.styles.basic.apply(this, arguments);
 		},
 		page = blink.currentPage;
 
-	CengageUKStyle.prototype = {
+	GobalLTtyle.prototype = {
 		//BK-15873 añadimos el estilo basic como parent para la herencia de los estilos del CKEditor
 		parent: blink.theme.styles.basic.prototype,
 		bodyClassName: 'content_type_clase_cengageUK',
@@ -124,9 +124,9 @@
 		}
 	};
 
-	CengageUKStyle.prototype = _.extend({}, new blink.theme.styles.basic(), CengageUKStyle.prototype);
+	GobalLTtyle.prototype = _.extend({}, new blink.theme.styles.basic(), GobalLTtyle.prototype);
 
-	blink.theme.styles.cengageUK = CengageUKStyle;
+	blink.theme.styles.cengageUK = GobalLTtyle;
 
 })( blink );
 
