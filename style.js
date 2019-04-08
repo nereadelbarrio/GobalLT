@@ -9,10 +9,10 @@
 	GobalLTtyle.prototype = {
 		//BK-15873 añadimos el estilo basic como parent para la herencia de los estilos del CKEditor
 		parent: blink.theme.styles.basic.prototype,
-		bodyClassName: 'content_type_clase_cengageUK',
+		bodyClassName: 'content_type_clase_GobalLT',
 		extraPlugins: ['cambridge_dropdown', 'blink_video_inline'],
 		ckEditorStyles: {
-			name: 'cengageUK',
+			name: 'GobalLT',
 			styles: [
 				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title1'} },
 				{ name: 'Título 2', element: 'h4', attributes: { 'class': 'bck-title2'} },
@@ -126,7 +126,7 @@
 
 	GobalLTtyle.prototype = _.extend({}, new blink.theme.styles.basic(), GobalLTtyle.prototype);
 
-	blink.theme.styles.cengageUK = GobalLTtyle;
+	blink.theme.styles.GobalLT = GobalLTtyle;
 
 })( blink );
 
