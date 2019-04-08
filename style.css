@@ -1,0 +1,1316 @@
+/* General */
+	body.content_type_clase_cengageUK #actividad .content img.bck-cam-button{
+		position: relative;
+		z-index: 10;
+	}
+
+	.cke_contents  table {
+		margin-bottom: 10px;
+	}
+
+	.body_clase:not(.edit) .content-wrapper {
+		padding-top: 100px;
+		padding-bottom: 0px;
+	}
+
+	.body_clase .content-wrapper.modo-revision {
+		padding-top: 157px;
+	}
+
+	.body_clase.edit .content-wrapper {
+		top: 0px;
+	}
+
+	.is_app.content_type_clase_cengageUK {
+		padding-top: 0px;
+	}
+
+	.is_app.content_type_clase_cengageUK:not(.offline-pc) .content-wrapper {
+		top: 55px;
+	}
+
+	.content_type_clase_cengageUK #actividad {
+		margin-bottom: 0px;
+		-webkit-transform: none;
+		-webkit-transform-style: flat;
+	}
+
+	.content_type_clase_cengageUK .slide-wrapper,
+	.cke_contents {
+		text-align: justify;
+	}
+
+	#actividad .carousel-inner .item-container {
+		background-image: none;
+		margin: 20px auto 30px;
+		padding: 0px;
+		padding-bottom: 90px;
+		position: relative;
+	}
+
+	.content_type_clase_cengageUK #actividad .content .header .title img,
+	.content_type_clase_cengageUK #actividad .content .header .chapter {
+		display: none;
+	}
+
+	#indice .units ul li a .number,
+	#indice .unit-content .header .number {
+		visibility: hidden;
+	}
+
+	.content_type_clase_cengageUK #actividad .content .header {
+		border: none;
+	}
+
+	.content_type_clase_cengageUK #actividad .content .header .title {
+		background: url(seccion_bg.png) no-repeat right -1px #FFB52F;
+		margin-right: -40px;
+		text-align: left;
+	}
+
+	.content_type_clase_cengageUK #actividad .content .header .title h3 {
+		font-size: 3.4rem;
+		margin-top: 0px;
+		font-weight: bold;
+		display: inline-block;
+		background-color: #FFB52F;
+		position: relative;
+		z-index: 0;
+		padding-left: 40px;
+		padding-right: 20px;
+		padding-bottom: 4px;
+		min-width: 284px;
+		margin-left: -40px;
+		line-height: 4.5rem;
+		max-width: 80%;
+	}
+
+	.content_type_clase_cengageUK #actividad .content .header .title h3:before {
+		content: '';
+		position: absolute;
+		border-top: 45px solid transparent;
+		border-right: 45px solid transparent;
+		border-left: 45px solid #FFB52F;
+		border-bottom: 45px solid transparent;
+		height: 0;
+		width: 0;
+		display: block;
+		bottom: -45px;
+		left: 0;
+	}
+
+	.content_type_clase_cengageUK #actividad .content .header .title h3 .competencias {
+		color: #dda0dd;
+	}
+
+	.content_type_clase_cengageUK #actividad .content .header .title h3 .repaso {
+		color: #8CC63F;
+	}
+
+	.content_type_clase_cengageUK #actividad .content .header .title h3 .repaso-trimestral {
+		display: block;
+		background: #00aee2; /* Old browsers */
+		background: -moz-linear-gradient(left,  #00aee2 0%, #c5ca2f 36%, #f5cb0d 58%, #f0629d 100%, #7db9e8 100%, #f0629d 101%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, right top, color-stop(0%,#00aee2), color-stop(36%,#c5ca2f), color-stop(58%,#f5cb0d), color-stop(100%,#f0629d), color-stop(100%,#7db9e8), color-stop(101%,#f0629d)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(left,  #00aee2 0%,#c5ca2f 36%,#f5cb0d 58%,#f0629d 100%,#7db9e8 100%,#f0629d 101%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(left,  #00aee2 0%,#c5ca2f 36%,#f5cb0d 58%,#f0629d 100%,#7db9e8 100%,#f0629d 101%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(left,  #00aee2 0%,#c5ca2f 36%,#f5cb0d 58%,#f0629d 100%,#7db9e8 100%,#f0629d 101%); /* IE10+ */
+		background: linear-gradient(to right,  #00aee2 0%,#c5ca2f 36%,#f5cb0d 58%,#f0629d 100%,#7db9e8 100%,#f0629d 101%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00aee2', endColorstr='#f0629d',GradientType=1 ); /* IE6-9 */
+		color: #FFF;
+	}
+
+	.content_type_clase_cengageUK #actividad .texto_curso {
+		font-size: 1.9rem;
+	}
+
+	#actividad .texto_curso li,
+	#actividad .workspace ul li li {
+		margin-bottom: 10px;
+	}
+
+	.content_type_clase_cengageUK .texto_curso input {
+		margin: 5px 0;
+	}
+
+	#actividad .class_slide {
+		padding: 40px 97px 0px;
+	}
+
+	#actividad .class_slide:last-of-type {
+		padding-bottom: 100px;
+	}
+
+	#actividad .slide-concatenate .class_slide {
+		padding-bottom: 20px;
+	}
+
+	#actividad .slide-concatenate:last-of-type .class_slide {
+		padding-bottom: 100px;
+	}
+
+	.content_type_clase_cengageUK .slide_main input {
+		color: #555;
+		background-color: #fff;
+		background-image: none;
+		border: 1px solid #ccc;
+		border-radius: 4px;
+		-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+		box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+		-webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+		transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+	}
+
+	.content_type_clase_cengageUK .slide_main input:focus {
+		border-top-color: #3AC62A;
+		border-right-color: #3AC62A;
+		border-bottom-color: #3AC62A;
+		border-left-color: #3AC62A;
+		outline-width: 0px;
+		outline-style: none;
+		box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(133, 200, 57, 0.6);
+	}
+
+	.content_type_clase_cengageUK .slide_main input[disabled],
+	.content_type_clase_cengageUK .slide_main input[readonly],
+	fieldset[disabled] .content_type_clase_cengageUK .slide_main input {
+		cursor: not-allowed;
+		background-color: #eee;
+		opacity: 1;
+	}
+
+	.content_type_clase_cengageUK .slide_main input.respuesta_ok {
+		border-color: #57e900;
+		background: #D1F3BD;
+	}
+
+	.content_type_clase_cengageUK .slide_main input.respuesta_ko {
+		border-color: #FF3626;
+		background: #FFA49D;
+	}
+
+	.content_type_clase_cengageUK .slide_main input.solucion {
+		border-color: #00BDFF;
+		background: #B6ECFF;
+	}
+
+	table {
+		margin-bottom: 20px;
+	}
+
+	#actividad .player.audio {
+		background-color: transparent;
+		background-image: url("iconos.png");
+	}
+
+	#actividad .player.video {
+		background-position: 0 -1px;
+		background-image: url(../../../images/shared/multimedia-icons.png);
+		background-color: green;
+	}
+
+	#actividad .player.video:hover {
+		background-color: #00BB00;
+	}
+
+	#actividad .player:hover {
+		background-color: transparent;
+		cursor: pointer;
+	}
+
+	#actividad .player.audio {
+		background-position: 0 -21px;
+		color: transparent;
+	}
+
+	.zoom_flag_img {
+		top: 20px;
+	}
+/**/
+
+/* Navbar (Breadcums) */
+	.content_type_clase_cengageUK .publisher-navbar {
+		position: fixed;
+		top: 44px;
+		background-color: #48C5DF;
+		width: 100%;
+		left: 0;
+		z-index: 100;
+	}
+	.content_type_clase_cengageUK .modo-revision ~ .publisher-navbar {
+		top: 102px;
+		z-index: 89;
+	}
+
+	.is_app.content_type_clase_cengageUK .publisher-navbar {
+		position: sticky;
+		top: 0px;
+	}
+
+	#top-navigator {
+		height: 55px;
+		overflow: hidden;
+		position: relative;
+	}
+
+	#top-navigator.show_left:before {
+		background: linear-gradient(to right, #48C5DF, transparent);
+		content: '';
+	}
+
+	#top-navigator.show_right:after {
+		background: linear-gradient(to left, #48C5DF, transparent);
+		content: ''
+	}
+
+	.content_type_clase_cengageUK .publisher-navbar .navbar-content {
+		max-width: 960px;
+		margin: 0 auto;
+		padding-left: 0;
+		padding-right: 0;
+		text-align: center;
+		position: relative;
+	}
+
+	.content_type_clase_cengageUK .navbar-content:before {
+		content: " ";
+		background-image: url(logo.png);
+		height: 20px;
+		background-repeat: no-repeat;
+		width: 100px;
+		margin-top: 18px;
+		position: relative;
+		left: 10px;
+		float: left;
+	}
+
+	.content_type_clase_cengageUK .slider-indicators {
+		padding: 10px 0px;
+		display: inline-block;
+		text-align: left;
+		position: static;
+		width: auto;
+	}
+
+	.content_type_clase_cengageUK .publisher-navbar .dropdown button,
+	.content_type_clase_cengageUK .publisher-navbar li {
+		border-radius: 5px;
+		border: none;
+		background-color: white;
+		color: #3F95D5;
+		vertical-align: middle;
+		margin: 0px 5px;
+		text-indent: 0px;
+		line-height: 3.5rem;
+		font-size: 2.0rem;
+		font-weight: bold;
+		cursor: pointer;
+		color: #204E64;
+	}
+
+	.content_type_clase_cengageUK .slider-indicators li {
+		width: auto;
+		height: 35px;
+		background-color: #FFF;
+		margin: 0px 5px;
+		text-align: center;
+		color: #204E64;
+		padding: 0 7px;
+	}
+
+	.content_type_clase_cengageUK .slider-indicators li.active,
+	.content_type_clase_cengageUK .publisher-navbar li:hover,
+	.content_type_clase_cengageUK .publisher-navbar .dropdown button:hover {
+		background-color: #FFB52F;
+		color: #204E64;
+	}
+
+	.content_type_clase_cengageUK .slider-indicator span {
+		display: block;
+		width: 200px;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+	}
+
+	.content_type_clase_cengageUK .publisher-navbar .dropdown button {
+		width: auto;
+		padding: 0px 10px;
+	}
+
+	.content_type_clase_cengageUK .publisher-navbar .dropdown {
+		display: block;
+		float: left;
+		margin-top: 10px;
+	}
+
+	.content_type_clase_cengageUK .publisher-navbar .dropdown button {
+		border: none;
+	}
+
+	.content_type_clase_cengageUK .publisher-navbar .dropdown button:focus {
+		outline: none;
+	}
+
+	.content_type_clase_cengageUK .publisher-navbar .dropdown li {
+		display: list-item;
+		width: auto;
+	}
+
+	.content_type_clase_cengageUK .publisher-navbar .dropdown li a {
+		color: #204E64;
+		font-weight: bold;
+	}
+
+	.content_type_clase_cengageUK .publisher-navbar .dropdown li a:hover {
+		background: #FFB52F;
+	}
+
+	.content_type_clase_cengageUK .publisher-navbar .dropdown .caret {
+		border-color: #204E64 transparent transparent transparent;
+	}
+
+	.content_type_clase_cengageUK .publisher-navbar .dropdown:hover .caret {
+		border-color: #204E64 transparent transparent transparent;
+	}
+
+	.texto_curso ul li:before,
+	.workspace ul li ul li:before {
+		background-color: black;
+	}
+
+	.texto_curso ul li:before,
+	.cke_contents ul li:before,
+	.preview ul li:before,
+	.classify-item ul li:before,
+	#actividad .workspace.multiple-choice .js-item ul li:before,
+	#actividad .workspace.matching .box ul li:before,
+	#actividad .workspace.ordenar .js-rank-item ul li:before {
+	  margin-top: 13px;
+	}
+/**/
+
+/* Navigators */
+	.navigator {
+		bottom: 0;
+		left: 0;
+		position: absolute;
+		width: 100%;
+		padding: 0px 97px;
+	}
+
+	.main-navigator {
+		padding: 15px 0px;
+		width: 100%;
+		border-top: 1px solid #e5e5e5;
+	}
+
+	.main-navigator .title {
+		overflow: hidden;
+		text-overflow: ellipsis;
+		width: calc(100% - 20px);
+		white-space: nowrap;
+	}
+
+	.navigator .left, .navigator .right {
+		width: 49%;
+		display: inline-block;
+		cursor: pointer;
+	}
+
+	.navigator .left {
+		padding-left: 20px;
+	}
+
+	.navigator .right {
+		text-align: right;
+		padding-right: 20px;
+	}
+
+	.navigator .title {
+		font-size: 1.6rem;
+		line-height: 4.0rem;
+		display: inline-block;
+		vertical-align: top;
+	}
+
+	.navigator .slider-control.left,
+	.navigator .slider-control.right {
+		position: static;
+		height: auto;
+		width: 100%;
+		background-color: transparent;
+		border-radius: 0px;
+		margin: 0px;
+		opacity: 1;
+		text-shadow: none;
+		color: #999;
+		font-size: 2.3rem;
+	}
+
+	.navigator .slider-control.left:before,
+	.navigator .slider-control.right:after {
+		font-family: 'FontAwesome';
+		position: absolute;
+		margin-top: 9px;
+	}
+
+	.navigator .slider-control.left:before {
+		margin-left: -20px;
+		content: "\f104";
+	}
+
+	.navigator .slider-control.right:after {
+		margin-left: 20px;
+		content: "\f105";
+	}
+
+	.navigator .slider-control span {
+		position: static;
+		margin: 0px;
+		cursor: pointer;
+	}
+
+	.form-control {
+	  font-size: 1.8rem;
+	}
+
+	.dropdown-menu li span:first-child {
+		display: inline-block;
+		min-width: 20px;
+		float: left;
+	}
+/**/
+
+/* CKEDITOR */
+
+	.bck-title1 {
+		font-size: 2.8rem;
+		font-weight: bold;
+	}
+
+	.bck-title2 {
+		font-size: 2.4rem;
+	}
+
+	.content .bck-ol {
+		list-style-type: none;
+	}
+
+	.content .bck-ol li {
+		counter-increment: bck-li-counter 1;
+		position: relative;
+	}
+
+	.content .bck-ol li:before {
+		content: counter(bck-li-counter);
+		position: absolute;
+		margin-left: -35px;
+		font-family: Arial;
+		text-align: right;
+		color: #FFF;
+		background: #FFA82C;
+		border-radius: 100%;
+		height: 30px;
+		width: 30px;
+		margin-top: -5px;
+		text-align: center;
+		line-height: 2.9rem;
+		font-weight: bold;
+	}
+
+	.bck-enfasis {
+		background-color: #FFEE6D;
+		font-weight: bold;
+	}
+
+	.bck-conversation, .bck-listening, .bck-question {
+		display: inline-block;
+		text-indent: 35px;
+		position: relative;
+		color: #204E64;
+		font-weight: bold;
+	}
+
+	.bck-conversation:before, .bck-listening:before, .bck-question:before {
+		content: '';
+		background: url("iconos.png") no-repeat 0px 4px;
+		height: 30px;
+		width: 30px;
+		position: absolute;
+		top: 0;
+		left: 0;
+		display: block;
+	}
+
+	.bck-listening:before {
+		background-position: 0 -21px;
+	}
+
+	.bck-question:before {
+		background-position: 0 -48px;
+	}
+
+	.bck-enunciado {
+		color: #204E64;
+		font-weight: bold;
+	}
+
+	#actividad .content img:not(.bck-cam-button){
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+
+	#actividad .content .bck-img.right,
+	#actividad .content img[style~="float:right"] {
+		margin-left: 20px;
+		float: right;
+	}
+
+	#actividad .content .bck-img.left,
+	 #actividad .content img[style~="float:left"] {
+		margin-right: 20px;
+		float: left;
+	}
+
+	.bck-box {
+		padding: 10px 20px;
+		border: 10px 0px;
+		word-break: break-word;
+	}
+
+	.bck-box.center {
+		margin: 0 auto;
+	}
+
+	.bck-box.left {
+		float: left;
+		margin-right: 25px;
+	}
+
+	.bck-box.right {
+		float: right;
+		margin-left: 25px;
+	}
+
+	.bck-box.box-actividad {
+		border-radius: 25px;
+		border: 1px solid #FFA82C;
+	}
+
+	.bck-box.box-quiz {
+		border:1px solid #ccc;
+		box-shadow: 8px -2px 16px 0px rgba(50, 50, 50, 0.68);
+	}
+
+	.bck-box.box-tip {
+		background-color: #DFDFDF;
+		position: relative;
+		margin-top: 30px;
+		text-indent: 20px;
+	}
+
+	.bck-box.box-tip:before {
+		content: "Tip";
+		background-color: #48C5DF;
+		width: 55px;
+		height: 55px;
+		border-radius: 100%;
+		font-weight: bolder;
+		position: absolute;
+		top: -20px;
+		left: -20px;
+		text-align: center;
+		line-height: 5.0rem;
+		color: white;
+		font-size: larger;
+		text-indent: 0;
+	}
+
+	.bck-box.box-simple {
+		border: 4px solid #D0EFF6;
+		position: relative;
+		margin-top: 20px;
+		padding: 30px 10px 10px;
+	}
+
+	.bck-box.box-simple .bck-title {
+		background: #48C5DF;
+		position: absolute;
+		top: -15px;
+		left: -15px;
+		color: #FFF;
+		font-weight: bold;
+		padding: 5px;
+		z-index: 0;
+	}
+
+	.bck-box.box-simple .bck-title:after {
+		content: '';
+		border-top: 8px solid transparent;
+		border-left: 8px solid transparent;
+		border-bottom: 8px solid transparent;
+		border-right: 8px solid #22B3C9;
+		height: 0;
+		width: 0;
+		display: block;
+		bottom: -8px;
+		left: 4px;
+		position: absolute;
+
+		-ms-transform: rotate(-225deg);
+		-webkit-transform: rotate(-225deg);
+		transform: rotate(-225deg);
+	}
+
+	.bck-box.box-referencia {
+		background-color: #DCDCD3;
+		display: inline-block;
+		font-size: 1.5rem;
+		padding: 3px;
+		padding-right: 16px;
+		font-weight: 600;
+		padding-left: 8px;
+		border-right: 7px solid #204E64;
+	}
+
+	.bck-tooltip-content {
+	   max-height: 150px;
+	   overflow-y: auto;
+	}
+
+	.content table {
+		border: 1px solid #CBCCCD;
+	}
+
+	.content table td, .content table th {
+		border: 1px solid #CBCCCD;
+		padding: 7px;
+	}
+
+	.bck-cam-dropdown{
+		border-top: 2px solid #D1EFF7;
+		transition: background-color 0.5s ease-out;
+		padding: 15px;
+	}
+
+	.bck-cam-dropdown.open {
+		background-color: #D1EFF7;
+	}
+
+	.bck-cam-button{
+		margin-top: -45px;
+  		width: 50px;
+	}
+
+	.bck-cam-dropdown-content{
+		overflow-y: auto;
+		display: none;
+		max-height: 300px;
+		margin-top: 20px;
+  		padding-right: 10px;
+	}
+
+	.bck-cam-dropdown-content li {
+		position: relative;
+	}
+
+	.edit .bck-cam-dropdown-content{
+		display: initial;
+	}
+
+/**/
+
+/* SECCIÃ“N REVIEW*/
+	#actividad .carousel-inner .review .item-container {
+		background: #FFEED2;
+	}
+
+	.content_type_clase_cengageUK #actividad .content .review .header .title {
+		background: transparent;
+		height: auto;
+		margin-right: -40px;
+		position: relative;
+		z-index: 0;
+	}
+
+	.content_type_clase_cengageUK #actividad .content .review .header .title:after {
+		background: #FFB52F;
+		height: 49px;
+		position: absolute;
+		content: '';
+		width: 100%;
+		height: 49px;
+		left: 0;
+		z-index: -1;
+	}
+
+	.content_type_clase_cengageUK #actividad .content .review .header .title h3 {
+		font-size: 3.4rem;
+		margin-top: 0px;
+		font-weight: bold;
+		display: inline-block;
+		background-color: #FFF;
+		position: relative;
+		z-index: 0;
+		padding-left: 40px;
+		padding-right: 80px;
+		padding-top: 20px;
+		padding-bottom: 10px;
+		min-width: 284px;
+		margin-left: -40px;
+		line-height: 4.5rem;
+		border-bottom-right-radius: 100px;
+		box-shadow: 3px 3px 6px rgba(0,0,0,0.2);
+		color: #FFB52F;
+	}
+
+	.content_type_clase_cengageUK #actividad .content .review .header .title h3:before,
+	.content_type_clase_cengageUK #actividad .content .review .header .title h3:after {
+		display: none;
+	}
+
+	.content_type_clase_cengageUK #actividad .content .review .header .title h3 .index {
+		color: black;
+	}
+/**/
+
+@media screen and (max-width: 1099px) {
+	.body_clase .content-wrapper {
+		max-width: 100%;
+	}
+
+	#actividad .content {
+		border-radius: 0;
+	}
+
+	#actividad .carousel-inner .item-container {
+		margin: 0;
+		width: 100% !important;
+		max-width: none;
+		box-shadow: none;
+		margin-bottom: 20px;
+	}
+
+	.ipad #actividad .carousel-inner .item-container {
+  		border-right: 1px solid #eee;
+	}
+}
+
+
+
+@media screen and (max-width: 768px) {
+	#actividad .carousel-inner .class_slide {
+		padding: 40px 20px 0px;
+	}
+
+	.content_type_clase_cengageUK #actividad .content .header .title {
+		margin-right: -20px;
+	}
+
+	.navigator {
+		padding: 0px 20px;
+	}
+
+	.bck-img.right, img[style~="float:right"] {
+		max-width: 50%
+	}
+
+	.bck-img.left, img[style~="float:left"] {
+		max-width: 50%
+	}
+
+}
+
+@media screen and (max-width: 480px) {
+
+	.bck-img.right, img[style~="float:right"] {
+		width: 100%;
+	}
+
+	.bck-img.left, img[style~="float:left"] {
+		width: 100%;
+	}
+
+	#actividad .carousel-inner .item-container {
+		padding: 40px 20px 90px;
+	}
+
+}
+
+
+/*CENGAGE UK*/
+	/*Titulo de la slide*/
+		.content_type_clase_cengageUK #actividad .content .header .title {
+			display:none;
+		}
+
+	/*Nav bar*/
+		.content_type_clase_cengageUK .publisher-navbar {
+			background-color: #fff;
+		}
+
+		.content_type_clase_cengageUK .navbar-content:before {
+		   content: " ";
+		   background-image: url(logocengage.jpg);
+			height: 60px;
+			width: 135px;
+			margin-top: 9px;
+			margin-right: 15px;
+			left: 0px;
+		}
+
+		.content_type_clase_cengageUK .slider-indicators li.active,
+		.content_type_clase_cengageUK .publisher-navbar li:hover,
+		.content_type_clase_cengageUK .publisher-navbar .dropdown button:hover {
+			background-color: #fff;
+			color: #005B89;
+			 border-right: 3px solid #005B89;
+		}
+
+		.content_type_clase_cengageUK .slider-indicators li {
+			background-color: #FFF;
+			color: #00ADEE;
+			border-radius: 0px;
+			border-right: 3px solid #00ADEE;
+		}
+
+		.content_type_clase_cengageUK .slider-indicator span {
+			width: auto;
+			margin-right: 2px;
+			margin-left: 15px
+		}
+
+	/*Titulo 1*/
+		.bck-title1 {
+			font-size: 3.2rem;
+			font-weight: normal;
+			color: #00ADEE;
+		}
+
+	/*Titulo 2*/
+		.bck-title2 {
+			font-size: 2.4rem;
+			font-weight: bold;
+			color: #EE1C25;
+		}
+
+	/*Titulo video*/
+		.titlevideo {
+			background-color: #00ADEE;
+			padding: 4% 5% 1% 10%;
+			color: #fff;
+			font-size: 3.5rem;
+		}
+
+		.titlevideo:before {
+			content: "\f03d";
+			font-family: FontAwesome;
+			font-style: normal;
+			font-weight: normal;
+			text-decoration: inherit;
+			color: #fff;
+			font-size: 3.0rem;
+			padding-left: 15px;
+			position: absolute;
+			left: 0;
+		}
+
+	/*Caja negra*/
+		.box-negra {
+			border: 1px solid #000;
+			padding: 15px 15px 0px 15px;
+			margin-bottom: 10px;
+		}
+		.content_type_clase_cengageUK .box-negra .bck-title,
+		.box-negra .bck-title{
+			text-align: left;
+			font-size: 1.8rem;
+		}
+		.content_type_clase_cengageUK .box-negra .bck-title,
+		.box-negra .bck-title p{
+		    margin: 0 0 10px;
+		}
+		.content_type_clase_cengageUK .box-negra .texto_curso p:last-of-type{
+			margin-bottom:10px;
+		}
+
+	/*Caja learning*/
+		.content_type_clase_cengageUK .box-learning .bck-title,
+		.box-learning .bck-title {
+			background: #F15A58;
+			padding: 5px 10px;
+			border-radius: 10px 10px 0px 0px;
+			font-size: 2.2rem;
+		    text-align: left;
+		}
+
+		.content_type_clase_cengageUK .box-learning .bck-content,
+		.box-learning .bck-content {
+			padding: 10px 10px 0px 10px;
+			border: 2px solid #F15A58;
+		}
+		.content_type_clase_cengageUK .box-learning {
+		    padding: 0px;
+		}
+
+	/*Caja useful expressions */
+		.box-useful {
+			margin: 0 auto;
+			border: 2px solid #F58139;
+			border-radius: 20px 20px 0px 0px;
+			padding: 20px;
+		}
+
+		.content_type_clase_cengageUK .box-useful .bck-title,
+		.box-useful .bck-title{
+			font-size: 2.4rem;
+			text-align: left;
+		}
+
+	/*Caja azul*/
+		.bck-box.box-azul {
+			display: inline-block;
+			font-size: 1.5rem;
+			padding: 20px;
+			padding-left: 35px;
+			font-weight: 600;
+			border-right: none;
+			background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(212,240,253,1) 100%);
+		}
+
+		.content_type_clase_cengageUK .bck-box.box-azul .bck-title,
+		.bck-box.box-azul .bck-title{
+			font-weight: bold;
+		}
+
+		.bck-box.box-azul.center:before {
+			content: "!";
+			font-family: FontAwesome;
+			font-style: normal;
+			font-weight: normal;
+			text-decoration: inherit;
+			color: #EF2A32;
+			font-size: 7rem;
+			position: absolute;
+			margin-top: 13px;
+			left: 8px;
+		}
+
+	/*Caja amarilla*/
+		.content_type_clase_cengageUK .bck-box.box-amarilla,
+		.bck-box.box-amarilla {
+			border: 5px solid #FFF100;
+			box-shadow: 0 10px 20px 0 rgba(50,50,50,0.4);
+		}
+
+		.content_type_clase_cengageUK .bck-box.box-amarilla .bck-title,
+		.bck-box.box-amarilla .bck-title {
+			color: #6D6E70;
+			font-size: 2.6rem;
+		}
+
+	/*Exam task*/
+		.content_type_clase_cengageUK .bck-box.box-actividad,
+		.bck-box.box-actividad {
+			border: none;
+		}
+
+		.content_type_clase_cengageUK .bck-box.box-actividad .bck-title,
+		.bck-box.box-actividad .bck-title{
+			text-align: right;
+			font-size: 2.8rem;
+			margin-bottom: -8px;
+		}
+
+		.content_type_clase_cengageUK .bck-box.box-actividad .bck-content,
+		.bck-box.box-actividad .bck-content{
+			border-top: 5px solid #CBDB2B;
+			border-left: 5px solid #CBDB2B;
+			border-top-left-radius: 15px;
+			padding: 15px;
+		}
+
+	/*Caja idea focus*/
+		.bck-box.box-tip:before {
+			content: "Ideas Focus";
+			background-color: rgba(255,255,255,0.5);
+			border: 2px solid #DFCCE3;
+			width: 150px;
+			height: 50px;
+			border-radius: 10px;
+			font-weight: 400;
+			top: -30px;
+			left: -19px;
+			text-align: center;
+			line-height: 5.0rem;
+			color: #000;
+			font-size: larger;
+		}
+
+		.bck-box.box-tip .bck-title {
+			padding-top:10px;
+		}
+
+		.bck-box.box-tip {
+			background-color: rgba(223,204,227,0.6);
+			text-indent: 0px;
+		}
+
+		.bck-box.box-tip .bck-content{
+			padding:15px;
+		}
+
+	/*Tool tip*/
+		.bck-tooltip {
+			text-decoration: none;
+			color: #EE1C25;
+		}
+
+		.popover-title {
+			color: #EE1C25;
+		}
+
+	/*Lista ordenada alpha roja*/
+		.content ol {
+			list-style-type: none;
+		}
+		.content .bck-ol li:before {
+			content: counter(bck-li-counter, upper-alpha)'';
+			position: absolute;
+			margin-left: -40px;
+			font-family: Arial;
+			text-align: right;
+			color: #EE1C25;
+			border-radius: 100%;
+			height: 30px;
+			width: 30px;
+			margin-top: 0px;
+			text-align: center;
+			line-height: 2.9rem;
+			font-weight: bold;
+			background: #fff;
+		}
+
+	/*Lista ordenada alpha negra*/
+		.content ol.bck-ol-4 li:before,
+		.content .texto_curso ol.bck-ol-4 li:before,
+		.content .workspace ul li ol.bck-ol-4 li:before {
+			content: counter(bck-li-counter4, upper-alpha) " ";
+			margin-left: -0.9em;
+			font-weight: bold;
+			font-size: 2.0rem;
+			text-align: right;
+			color: #000;
+			background-color: #fff;
+			padding-bottom: 4px;
+			padding-right: 9px;
+			padding-left: 8px;
+			border-radius: 100%;
+			margin-top: 0px;
+		}
+		.content .bck-ol-4 li{
+			counter-increment: bck-li-counter4 1;
+		}
+
+	/*Lista ordenada Numeral Negra*/
+		.content ol.bck-ol-3 li:before,
+		.content .texto_curso ol.bck-ol-3 li:before,
+		.content .workspace ul li ol.bck-ol-3 li:before {
+			content: counter(bck-li-counter3) " ";
+			margin-left: -1.9em;
+			font-weight: 600;
+			font-size: 2.0rem;
+			text-align: right;
+			color: #000;
+			background-color: #fff;
+			padding-bottom: 4px;
+			padding-right: 14px;
+			padding-left: 8px;
+			border-radius: 100%;
+			margin-top: -2px;
+		}
+		.content .bck-ol-3 li{
+			counter-increment: bck-li-counter3 1;
+		}
+
+	/*Lista ordenada Lower-Alpha*/
+		.content ol.bck-ol-5 li:before,
+		.content .texto_curso ol.bck-ol-5 li:before,
+		.content .workspace ul li ol.bck-ol-5 li:before {
+			content: counter(bck-li-counter5, lower-alpha) " ";
+			margin-left: -0.9em;
+			font-weight: bold;
+			font-size: 2.0rem;
+			text-align: right;
+			color: #414141;
+			background-color: #fff;
+			padding-bottom: 4px;
+			padding-right: 9px;
+			padding-left: 8px;
+			border-radius: 100%;
+			margin-top: 0px;
+		}
+		.content .bck-ol-5 li{
+			counter-increment: bck-li-counter5 1;
+		}
+
+	/*Lista desordenada 1*/
+		.cke_contents ul li:before,
+		.texto_curso ul li:before,
+		.workspace ul li ul li:before {
+			background-color: black;
+			margin-top:9px;
+		}
+		.cke_contents ul li:before{
+			margin-top:13px;
+		}
+
+	/*Desplegable1*/
+		.bck-dropdown-titulo {
+			color: #CBDB2B;
+		}
+
+		.bck-dropdown-icon {
+			color: #CBDB2B;
+		}
+
+		.fa-chevron-up:before {
+			content: "\f0f6";
+			font-size: 3.0rem;
+		}
+
+		.fa-chevron-down:before {
+			content: "\f0f6";
+			font-size: 3.0rem;
+		}
+
+		.bck-dropdown-icon>.fa {
+			border: none;
+		}
+
+		.content_type_clase_cengageUK .bck-dropdown-content {
+			overflow-y: auto;
+			max-height: 100%;
+			max-width: 100%;
+			padding: 2%;
+			background-color: rgba(203, 219, 43, 0.2);
+			border-left: 5px solid #CBDB2B;
+			border-top: 3px solid #CBDB2B;
+		}
+
+	/*Desplegable 2*/
+		.desplegable-2 .bck-dropdown-titulo{
+		    color: #204e64;
+		    font-size: 1.6rem;
+		    position: relative;
+		    float: right;
+		    margin-top: 23px;
+		    z-index: 2;
+		    text-align: right;
+		    font-size: 2.8rem;
+		    margin-right: 10px;
+		    color: #414141;
+		}
+
+		.desplegable-2 .bck-dropdown-titulo:after{
+			content: "";
+			background: url(guisante.png);
+			padding-left: 69px;
+			background-size: cover;
+			padding-top: 33px;
+			top: 15px;
+			right: -15px;
+			position: relative;
+			background-repeat: no-repeat;
+		}
+
+		.desplegable-2:not(.open) .bck-dropdown-button{
+			border-bottom: 2px solid #cbdb2b;
+		}
+
+		.desplegable-2 .bck-dropdown-button .fa-chevron-up:before,
+		.desplegable-2 .bck-dropdown-button .fa-chevron-down:before{
+			content:"";
+		}
+
+		.content_type_clase_cengageUK .desplegable-2 .bck-dropdown-content{
+			background-color: #fff;
+			border-top: 2px solid #CBDB2B;
+			border-bottom: 10px solid #CBDB2B;
+			border-right: 2px solid #CBDB2B;
+			border-left: 10px solid #CBDB2B;
+			border-radius: 25px;
+		    display: none;
+			position: relative;
+			width: 100%;
+			top: -2px;
+			z-index: 0;
+		}
+
+		.content_type_clase_cengageUK .bck-cam-dropdown.open {
+			background-color: #fff;
+			border-top: 2px solid #CBDB2B;
+			border-bottom: 10px solid #CBDB2B;
+			border-right: 2px solid #CBDB2B;
+			border-left: 10px solid #CBDB2B;
+			border-radius: 25px;
+		}
+
+		#actividad .content img.bck-cam-button {
+			position: relative;
+			z-index: 10;
+			float: right;
+		}
+
+		.bck-cam-dropdown {
+			border-top: 2px solid #CBDB2B;
+		}
+
+		.bck-cam-dropdown .bck-title {
+			text-align: right;
+			font-size: 2.8rem;
+			color: #414141;
+		}
+
+	/*Archivos adjuntos*/
+		.content_type_clase_cengageUK .bck-sub-label,
+		.content_type_clase_cengageUK .bck-file-label {
+			font-weight: 400;
+			background: #0F76BB;
+			color: #fff;
+			border-radius: 5px;
+			max-width: 100%;
+			display: inline-block;
+			margin: 5px;
+			padding: 5px 20px 5px 5px;
+			text-align: center;
+		}
+
+	/*SECCIÃ“N portada*/
+		.content_type_clase_cengageUK #actividad .portada .class_slide {
+		    padding: 0px;
+		}
+
+		.content_type_clase_cengageUK #actividad .carousel-inner .portada .item-container {
+		    padding-bottom: 0px;
+		}
+
+		.content_type_clase_cengageUK #actividad .content .portada img:not(.bck-cam-button) {
+		    margin-top: 0px;
+		    margin-bottom: 0px;
+		}
+
+	/*slide test*/
+		.content_type_clase_cengageUK #actividad .workspace.test .respuestas li {
+			width: 33%;
+		}
+
+	@media screen and (max-width: 480px) {
+		.titlevideo:before{
+			content:" ";
+		}
+		.desplegable-2 .bck-dropdown-titulo:after{
+			display:none;
+		}
+	}
