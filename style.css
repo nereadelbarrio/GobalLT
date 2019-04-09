@@ -1337,6 +1337,45 @@
 		.bck-box.box-tip .bck-content{
 			padding:15px;
 		}
+		/*Pop-up*/
+
+		.info-template.shown{
+			background: #E8D6C7;
+			padding-top: 10px;
+		}
+
+		.fa-times:before{
+			color: #6D2470;
+		}
+
+		.info-template .info-icon{
+			display: none;
+		}
+
+		.info-template .info-title:hover{
+			opacity: .7;
+		}
+
+		.info-popover .popover-title, .popover-template .popover-title{
+			display: block;
+		    position: relative;
+		    background: #E8D6C7;
+		    text-align: center;
+		    color: #6D2470;
+		    font-weight: bold;
+		    font-size: 2rem;
+		    min-height: 35px;
+		    border-bottom: 0;
+		}
+
+		.popover-template .popover-content{
+			height: auto;
+		    overflow-y: auto;
+		    position: relative;
+		    max-height: 717px;
+		    background-color: #E8D6C7;
+		}
+
 
 	/*Tool tip*/
 		.bck-tooltip {
