@@ -674,6 +674,7 @@
 	/*Azul*/
 	.bck-enfasis-2 {
 		color: #005598;
+		font-weight: bold;
 	}
 
 	.bck-conversation, .bck-listening, .bck-question {
