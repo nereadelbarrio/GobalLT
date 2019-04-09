@@ -500,6 +500,7 @@
 		background-color: #00ADEE;
 		font-weight: bold;
 		color: #ffff;
+		padding-right: 10px;
 	}
 
 	.bck-title2:before {
@@ -509,9 +510,9 @@
 		background-color: #333;
 		padding-top: 1px;
 		margin-right: 5px;
-		padding-left: 6px;
-		padding-right: 9px;
-		padding-bottom: 2px;
+		padding-left: 10px;
+	        padding-right: 10px;
+	        padding-bottom: 2px;
 	}
 
 	/*titulo part2*/
@@ -522,6 +523,7 @@
 		background-color: #00ADEE;
 		font-weight: bold;
 		color: #ffff;
+		padding-right: 10px;
 	}
 
 	.bck-title3:before {
@@ -531,8 +533,8 @@
 	    background-color: #333;
 	    padding-top: 1px;
 	    margin-right: 5px;
-	    padding-left: 6px;
-	    padding-right: 9px;
+	    padding-left: 10px;
+	    padding-right: 10px;
 	    padding-bottom: 2px;
 	}
 
@@ -544,6 +546,7 @@
 		background-color: #00ADEE;
 		font-weight: bold;
 		color: #ffff;
+		padding-right: 10px;
 	}
 
 	.bck-title4:before {
@@ -553,8 +556,8 @@
 	    background-color: #333;
 	    padding-top: 1px;
 	    margin-right: 5px;
-	    padding-left: 6px;
-	    padding-right: 9px;
+	    padding-left: 10px;
+	    padding-right: 10px;
 	    padding-bottom: 2px;
 	}
 
@@ -566,6 +569,7 @@
 		background-color: #00ADEE;
 		font-weight: bold;
 		color: #ffff;
+		padding-right: 10px;
 	}
 
 	.bck-title5:before {
@@ -575,8 +579,8 @@
 	    background-color: #333;
 	    padding-top: 1px;
 	    margin-right: 5px;
-	    padding-left: 6px;
-	    padding-right: 9px;
+	    padding-left: 10px;
+	    padding-right: 10px;
 	    padding-bottom: 2px;
 	}
 
@@ -588,6 +592,7 @@
 		background-color: #00ADEE;
 		font-weight: bold;
 		color: #ffff;
+		padding-right: 10px;
 	}
 
 	.bck-title6:before {
@@ -597,8 +602,8 @@
 	    background-color: #333;
 	    padding-top: 1px;
 	    margin-right: 5px;
-	    padding-left: 6px;
-	    padding-right: 9px;
+	    padding-left: 10px;
+	    padding-right: 10px;
 	    padding-bottom: 2px;
 	}
 
@@ -610,6 +615,7 @@
 		background-color: #00ADEE;
 		font-weight: bold;
 		color: #ffff;
+		padding-right: 10px;
 	}
 
 	.bck-title7:before {
@@ -1029,6 +1035,7 @@
 			background-color: #00ADEE;
 			font-weight: bold;
 			color: #ffff;
+			padding-right: 10px;
 		}
 
 		.bck-title2:before {
@@ -1038,8 +1045,8 @@
 		    background-color: #333;
 		    padding-top: 1px;
 		    margin-right: 5px;
-		    padding-left: 6px;
-		    padding-right: 9px;
+		    padding-left: 10px;
+		    padding-right: 10px;
 		    padding-bottom: 2px;
 		}
 
@@ -1051,6 +1058,7 @@
 			background-color: #00ADEE;
 			font-weight: bold;
 			color: #ffff;
+			padding-right: 10px;
 		}
 
 		.bck-title3:before {
@@ -1060,8 +1068,8 @@
 		    background-color: #333;
 		    padding-top: 1px;
 		    margin-right: 5px;
-		    padding-left: 6px;
-		    padding-right: 9px;
+		    padding-left: 10px;
+		    padding-right: 10px;
 		    padding-bottom: 2px;
 		}
 
@@ -1073,6 +1081,7 @@
 		background-color: #00ADEE;
 		font-weight: bold;
 		color: #ffff;
+		padding-right: 10px;
 	}
 
 	.bck-title4:before {
@@ -1082,8 +1091,8 @@
 	    background-color: #333;
 	    padding-top: 1px;
 	    margin-right: 5px;
-	    padding-left: 6px;
-	    padding-right: 9px;
+	    padding-left: 10px;
+	    padding-right: 10px;
 	    padding-bottom: 2px;
 	}
 
@@ -1095,6 +1104,7 @@
 		background-color: #00ADEE;
 		font-weight: bold;
 		color: #ffff;
+		padding-right: 10px;
 	}
 
 	.bck-title5:before {
@@ -1104,8 +1114,8 @@
 	    background-color: #333;
 	    padding-top: 1px;
 	    margin-right: 5px;
-	    padding-left: 6px;
-	    padding-right: 9px;
+	    padding-left: 10px;
+	    padding-right: 10px;
 	    padding-bottom: 2px;
 	}
 
@@ -1117,6 +1127,7 @@
 		background-color: #00ADEE;
 		font-weight: bold;
 		color: #ffff;
+		padding-right: 10px;
 	}
 
 	.bck-title6:before {
@@ -1126,8 +1137,8 @@
 	    background-color: #333;
 	    padding-top: 1px;
 	    margin-right: 5px;
-	    padding-left: 6px;
-	    padding-right: 9px;
+	    padding-left: 10px;
+	    padding-right: 10px;
 	    padding-bottom: 2px;
 	}
 
@@ -1139,6 +1150,7 @@
 		background-color: #00ADEE;
 		font-weight: bold;
 		color: #ffff;
+		padding-right: 10px;
 	}
 
 	.bck-title7:before {
@@ -1148,8 +1160,8 @@
 	    background-color: #333;
 	    padding-top: 1px;
 	    margin-right: 5px;
-	    padding-left: 6px;
-	    padding-right: 9px;
+	    padding-left: 10px;
+	    padding-right: 10px;
 	    padding-bottom: 2px;
 	}
 
