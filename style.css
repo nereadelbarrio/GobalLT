@@ -619,17 +619,21 @@
 	}
 
 	.bck-title7:before {
-    background-color: #000;
-    content: 'Part 6';
-    margin-right: 0;
-    background-color: #333;
-    padding-top: 1px;
-    margin-right: 5px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 2px;
-}
+	    background-color: #000;
+	    content: 'Part 6';
+	    margin-right: 0;
+	    background-color: #333;
+	    padding-top: 1px;
+	    margin-right: 5px;
+	    padding-left: 10px;
+	    padding-right: 10px;
+	    padding-bottom: 2px;
+	}
 
+	.bck-title8 {
+		font-size: 3.2rem;
+		margin-bottom: 15px;
+		}
 
 	.content .bck-ol {
 		list-style-type: none;
