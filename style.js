@@ -24,6 +24,7 @@
 				{ name: 'Título rojo', element: 'h5', attributes: { 'class': 'bck-title8'} },
 				{ name: 'Título video', element: 'h4', attributes: { 'class': 'titlevideo'} },
 				{ name: 'Subtítulo', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
+				{ name: 'Azul', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 
 				{ name: 'Caja negra', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-negra' } },
 				{ name: 'Caja learning', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-learning' } },
