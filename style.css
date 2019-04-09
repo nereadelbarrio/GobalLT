@@ -1506,11 +1506,11 @@
 		#actividad .content .texto_curso .bck-ul-2 li:before, 
 		#actividad .content .workspace ul li .bck-ul-2 li:before{
 			content: "";
-		    height: 5px;
-		    width: 5px;
-		    background: #6D2470;
-		    margin-top: 10px;
-		    border: none;
+			height: 6px;
+			width: 6px;
+			background: #6D2470;
+			margin-top: 10px;
+			border: none;
 		}
 
 	/*Desplegable1*/
