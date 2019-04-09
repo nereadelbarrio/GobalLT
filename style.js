@@ -22,7 +22,7 @@
 				{ name: 'Título part5', element: 'h4', attributes: { 'class': 'bck-title6'} },
 				{ name: 'Título part6', element: 'h4', attributes: { 'class': 'bck-title7'} },
 				{ name: 'Título video', element: 'h4', attributes: { 'class': 'titlevideo'} },
-				{ name: 'Subtítulo', element: 'span', attributes: { 'class': 'bck-enfasis-1'} }
+				{ name: 'Subtítulo', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 
 				{ name: 'Caja negra', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-negra' } },
 				{ name: 'Caja learning', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-learning' } },
