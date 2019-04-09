@@ -1407,7 +1407,7 @@
 		.content .cke_contents .bck-ol-3 li:before,
 		.content .texto_curso ol.bck-ol-3 li:before,
 		.content .workspace ul li ol.bck-ol-3 li:before {
-				 content: counter(bck-li-counter, decimal)".";
+				 content: counter(bck-li-counter, decimal)" ";
 				margin-left: -1.9em;
 				font-weight: 600;
 				font-size: 2.5rem;
