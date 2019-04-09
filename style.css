@@ -1491,6 +1491,23 @@
 		.cke_contents ul li:before{
 			margin-top:13px;
 		}
+		
+	/*Lista des morada*/
+		#actividad .content .texto_curso ul.bck-ul-2 li,
+		#actividad .content .workspace ul li ul.bck-ul-2 li{
+			list-style: none;
+		}
+		
+		#actividad .content .cke_contents .bck-ul-2 li:before, 
+		#actividad .content .texto_curso .bck-ul-2 li:before, 
+		#actividad .content .workspace ul li .bck-ul-2 li:before{
+			content: "";
+		    height: 5px;
+		    width: 5px;
+		    background: #6D2470;
+		    margin-top: 10px;
+		    border: none;
+		}
 
 	/*Desplegable1*/
 		.bck-dropdown-titulo {
