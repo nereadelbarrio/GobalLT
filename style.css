@@ -1391,22 +1391,32 @@
 		}
 
 	/*Lista ordenada Numeral Azul*/
-		.content ol.bck-ol-3 li:before,
+		.content .cke_contents .bck-ol-3,
+		.content .texto_curso .bck-ol-3,
+		.content .workspace ul li .bck-ol-3 {
+		   	counter-reset: bck-li-counter;
+		}
+
+
+		.content .cke_contents .bck-ol-3 li,
+		.content .texto_curso .bck-ol-3 li,
+		.content .workspace ul li .bck-ol-3 li {
+			counter-increment: bck-li-counter;
+		}
+
+		.content .cke_contents .bck-ol-3 li:before,
 		.content .texto_curso ol.bck-ol-3 li:before,
 		.content .workspace ul li ol.bck-ol-3 li:before {
-			content: counter(bck-li-counter3) " ";
-			margin-left: -1.9em;
-			font-weight: 600;
-			font-size: 2.5rem;
-			text-align: right;
-			color: #00B0F4;
-			padding-bottom: 4px;
-			padding-right: 14px;
-			padding-left: 8px;
-			margin-top: -2px;
-		}
-		.content .bck-ol-3 li{
-			counter-increment: bck-li-counter3 1;
+				 content: counter(bck-li-counter, upper-alpha)".";
+				margin-left: -1.9em;
+				font-weight: 600;
+				font-size: 2.5rem;
+				text-align: right;
+				color: #00B0F4;
+				padding-bottom: 4px;
+				padding-right: 14px;
+				padding-left: 8px;
+				margin-top: -2px;
 		}
 
 	/*Lista ordenada Lower-Alpha*/
