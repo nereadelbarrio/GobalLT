@@ -1343,6 +1343,10 @@
 			background: #E8D6C7;
 			padding-top: 10px;
 		}
+		.info-template .info-title.shown{
+			color: #6D2470;
+		}
+
 
 		.fa-times:before{
 			color: #6D2470;
