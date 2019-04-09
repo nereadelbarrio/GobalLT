@@ -37,6 +37,7 @@
 				{ name: 'Lista Ordenada Alpha negra', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
 				{ name: 'Lista Ordenada Numeral Azul', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 				{ name: 'Lista Ordenada Lower-Alpha', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
+				{ name: 'Lista Desordenada Morada', element: 'ul', attributes: { 'class': 'bck-ul-2' } },
 
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'desplegable-2' } }
 			]
