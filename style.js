@@ -15,7 +15,12 @@
 			name: 'GobalLT',
 			styles: [
 				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title1'} },
-				{ name: 'Título 2', element: 'h4', attributes: { 'class': 'bck-title2'} },
+				{ name: 'Título part1', element: 'h4', attributes: { 'class': 'bck-title2'} },
+				{ name: 'Título part2', element: 'h4', attributes: { 'class': 'bck-title3'} },
+				{ name: 'Título part3', element: 'h4', attributes: { 'class': 'bck-title4'} },
+				{ name: 'Título part4', element: 'h4', attributes: { 'class': 'bck-title5'} },
+				{ name: 'Título part5', element: 'h4', attributes: { 'class': 'bck-title6'} },
+				{ name: 'Título part6', element: 'h4', attributes: { 'class': 'bck-title7'} },
 				{ name: 'Título video', element: 'h4', attributes: { 'class': 'titlevideo'} },
 
 				{ name: 'Caja negra', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-negra' } },
