@@ -665,11 +665,15 @@
 		background-color: #FFEE6D;
 		font-weight: bold;
 	}
-
+	/*Subtítulo*/
 	.bck-enfasis-1 {
 		font-size: 16px;
 	    font-style: italic;
 	    font-weight: : 600;
+	}
+	/*Azul*/
+	.bck-enfasis-2 {
+		color: #005598;
 	}
 
 	.bck-conversation, .bck-listening, .bck-question {
