@@ -1382,6 +1382,10 @@
 		.info-popover .popover-title:before, .popover-template .popover-title:before{
 			display: none;
 		}
+		.foro_wiki_cke_text ul li:before, .texto_curso ul li:before, .workspace:not(.test) ul li ul li:before, .cke_contents ul li:before, .preview ul li:before, .classify-item ul li:before, .popover-template .popover-content ul li:before{
+			background-color: #6D2470;
+		}
+
 
 	/*Tool tip*/
 		.bck-tooltip {
