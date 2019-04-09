@@ -1375,7 +1375,9 @@
 		    max-height: 717px;
 		    background-color: #E8D6C7;
 		}
-
+		.info-popover .popover-title:before, .popover-template .popover-title:before{
+			display: none;
+		}
 
 	/*Tool tip*/
 		.bck-tooltip {
