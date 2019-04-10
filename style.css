@@ -694,6 +694,16 @@
 		padding: 2px;
 		font-weight: bold;
 	}
+	
+	/*Negro*/
+	.bck-enfasis-4 {
+		color: #ffff;
+	    background-color: #231F20;
+	    font-weight: bold;
+	    font-size: 2.4rem;
+	    padding: 0 10px;
+	    width: max-content;
+	}
 
 	.bck-conversation, .bck-listening, .bck-question {
 		display: inline-block;
