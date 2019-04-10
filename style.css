@@ -1582,6 +1582,10 @@
 		#actividad .workspace label{
 			font-size: 18px;
 		}
+		
+		#actividad .workspace.chooseblanks select{
+			background-color: rgba(255, 255, 255, 0);
+		}
 
 	/*Desplegable1*/
 		.bck-dropdown-titulo {
