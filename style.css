@@ -687,6 +687,11 @@
 		color: #005598;
 		font-weight: bold;
 	}
+	
+	/*CUADRADO*/
+	.bck-enfasis-3 {
+		border: 1px solid black;
+	}
 
 	.bck-conversation, .bck-listening, .bck-question {
 		display: inline-block;
