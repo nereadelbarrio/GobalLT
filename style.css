@@ -644,6 +644,15 @@
     		color: #156F35;
     		font-weight: bold;
 	}
+
+	.bck-title10 {
+		    font-size: 2.2rem;
+		    margin-bottom: 15px;
+		    color: rgb(109,36,112);
+		    font-weight: 600;
+		    text-align: center;
+	}
+
 	
 
 	.content .bck-ol {
