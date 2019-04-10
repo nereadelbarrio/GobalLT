@@ -1655,6 +1655,23 @@
 			border: none;
 		}
 
+		/*Lista des azul*/
+		#actividad .content .texto_curso ul.bck-ul-3 li,
+		#actividad .content .workspace ul li ul.bck-ul-3 li{
+			list-style: none;
+		}
+		
+		#actividad .content .cke_contents .bck-ul-3 li:before, 
+		#actividad .content .texto_curso .bck-ul-3 li:before, 
+		#actividad .content .workspace ul li .bck-ul-3 li:before{
+			content: "";
+		    height: 6px;
+		    width: 6px;
+		    background: #00ADEE;
+		    margin-top: 10px;
+		    border: none;
+		}
+
 		/*actividad test*/
 		.content_type_clase_GobalLT #actividad .workspace.test .respuestas li {
 		    width: 100%!important;
