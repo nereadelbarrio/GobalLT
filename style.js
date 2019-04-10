@@ -40,7 +40,7 @@
 
 				{ name: 'Lista Ordenada Alpha roja', element: 'ol', attributes: { 'class': 'bck-ol' } },
 				{ name: 'Lista Ordenada Alpha negra', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
-				{ name: 'Lista Ordenada Alpha azul', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
+				{ name: 'Lista Ordenada Alpha azul', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
 				{ name: 'Lista Ordenada Numeral Azul', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 				{ name: 'Lista Ordenada Lower-Alpha', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
 				{ name: 'Lista Desordenada Morada', element: 'ul', attributes: { 'class': 'bck-ul-2' } },
