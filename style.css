@@ -1372,7 +1372,34 @@
 			    box-shadow: 0 10px 20px 0 rgba(50,50,50,0.4);
 			    margin-bottom: 20px;
 		}
+		
+		/*Caja writing*/
+		.content_type_clase_GobalLT .bck-box.box-writing,
+		.bck-box.box-writing {
+			border: none;
+		}
 
+		.content_type_clase_GobalLT .bck-box.box-writing .bck-title,
+		.bck-box.box-writing .bck-title{
+			    text-align: center;
+			    font-size: 2.8rem;
+			    font-weight: bold;
+			    margin-bottom: -8px;
+			    background: #005596;
+			    width: fit-content;
+			    position: relative;
+			    top: 12px;
+			    padding: 0 10px;
+			    margin: auto;
+		}
+
+		.content_type_clase_GobalLT .bck-box.box-writing .bck-content,
+		.bck-box.box-writing .bck-content{
+			padding: 15px;
+		    border: 1px dotted #75C4F2;
+		    background: #CED8EB;
+		    border-radius: 20px;
+		}
 
 		.bck-box.box-tip .bck-title {
 			padding-top:10px;
