@@ -1362,6 +1362,16 @@
 			font-size: larger;
 		}
 
+		/*Caja verde*/
+		.content_type_clase_GobalLT .bck-box.box-verde,
+		.bck-box.box-verde {
+			    background-color: #E9F2CD;
+			    border: 2px solid rgb(178,210,55);
+			    box-shadow: 0 10px 20px 0 rgba(50,50,50,0.4);
+			    margin-bottom: 20px;
+		}
+
+
 		.bck-box.box-tip .bck-title {
 			padding-top:10px;
 		}
