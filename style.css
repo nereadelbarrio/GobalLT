@@ -1019,8 +1019,9 @@
 		.content_type_clase_GobalLT .publisher-navbar li:hover,
 		.content_type_clase_GobalLT .publisher-navbar .dropdown button:hover {
 			background-color: #fff;
-			color: #005B89;
-			 border-right: 3px solid #005B89;
+			color: #103d5f;
+			border-right: 3px solid #103d5f;
+			margin-top: 5px;
 		}
 
 		.content_type_clase_GobalLT .slider-indicators li {
