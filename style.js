@@ -27,6 +27,7 @@
 				{ name: 'Subtítulo', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Azul', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'Cuadrado', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
+				{ name: 'Negro', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 
 				{ name: 'Caja negra', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-negra' } },
 				{ name: 'Caja learning', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-learning' } },
