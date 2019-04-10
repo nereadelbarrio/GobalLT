@@ -634,6 +634,8 @@
 	.bck-title8 {
 		font-size: 3.2rem;
 		margin-bottom: 15px;
+		color: #B63B1E;
+    		font-weight: bold;
 		}
 
 	
@@ -1189,6 +1191,8 @@
 	.bck-title8 {
 		font-size: 3.2rem;
     		margin-bottom: 15px;
+		color: #B63B1E;
+    		font-weight: bold;
 	}
 
 	/*Titulo video*/
