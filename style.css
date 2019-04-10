@@ -691,6 +691,8 @@
 	/*CUADRADO*/
 	.bck-enfasis-3 {
 		border: 1px solid black;
+		padding: 2px;
+		font-weight: bold;
 	}
 
 	.bck-conversation, .bck-listening, .bck-question {
