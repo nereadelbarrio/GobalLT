@@ -1394,7 +1394,9 @@
 		.foro_wiki_cke_text ul li:before, .texto_curso ul li:before, .workspace:not(.test) ul li ul li:before, .cke_contents ul li:before, .preview ul li:before, .classify-item ul li:before, .popover-template .popover-content ul li:before{
 			background-color: #6D2470;
 		}
-
+		.foro_wiki_cke_text ul li, .texto_curso ul li, .popover-template .popover-content ul li, .workspace ul li ul li, .cke_contents ul li, .preview ul li{
+			font-weight: 600;
+		}
 
 	/*Tool tip*/
 		.bck-tooltip {
