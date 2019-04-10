@@ -1585,7 +1585,7 @@
 
 		/*actividad test*/
 		.content_type_clase_GobalLT #actividad .workspace.test .respuestas li {
-	    	width: 100%;
+		    width: 100%;
 		}
 
 		#actividad .workspace label{
@@ -1729,7 +1729,7 @@
 
 	/*slide test*/
 		.content_type_clase_GobalLT #actividad .workspace.test .respuestas li {
-			width: 33%;
+			width: 100%;
 		}
 
 	@media screen and (max-width: 480px) {
