@@ -1306,6 +1306,7 @@
 		.content_type_clase_GobalLT .bck-box.box-amarilla,
 		.bck-box.box-amarilla {
 			border: 5px solid #FFF100;
+			background-color: #FDEABB;
 			box-shadow: 0 10px 20px 0 rgba(50,50,50,0.4);
 		}
 
