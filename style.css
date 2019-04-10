@@ -1727,10 +1727,6 @@
 		    margin-bottom: 0px;
 		}
 
-	/*slide test*/
-		.content_type_clase_GobalLT #actividad .workspace.test .respuestas li {
-			width: 100%;
-		}
 
 	@media screen and (max-width: 480px) {
 		.titlevideo:before{
