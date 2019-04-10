@@ -21,9 +21,9 @@
 				{ name: 'Título part4', element: 'h4', attributes: { 'class': 'bck-title5'} },
 				{ name: 'Título part5', element: 'h4', attributes: { 'class': 'bck-title6'} },
 				{ name: 'Título part6', element: 'h4', attributes: { 'class': 'bck-title7'} },
-				{ name: 'Título rojo', element: 'h5', attributes: { 'class': 'bck-title8'} },
-				{ name: 'Título verde', element: 'h5', attributes: { 'class': 'bck-title9'} },
-				{ name: 'Título morado', element: 'h6', attributes: { 'class': 'bck-title10'} },
+				{ name: 'Título rojo', element: 'h4', attributes: { 'class': 'bck-title8'} },
+				{ name: 'Título verde', element: 'h4', attributes: { 'class': 'bck-title9'} },
+				{ name: 'Título morado', element: 'h4', attributes: { 'class': 'bck-title10'} },
 				{ name: 'Título video', element: 'h4', attributes: { 'class': 'titlevideo'} },
 				{ name: 'Subtítulo', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Azul', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
@@ -47,6 +47,7 @@
 				{ name: 'Lista Ordenada Numeral Azul', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 				{ name: 'Lista Ordenada Lower-Alpha', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
 				{ name: 'Lista Desordenada Morada', element: 'ul', attributes: { 'class': 'bck-ul-2' } },
+				{ name: 'Lista Desordenada Azul', element: 'ul', attributes: { 'class': 'bck-ul-3' } },
 
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'desplegable-2' } }
 			]
