@@ -1544,25 +1544,31 @@
 				margin-top: -2px;
 		}
 
-	/*Lista ordenada Lower-Alpha*/
-		.content ol.bck-ol-5 li:before,
-		.content .texto_curso ol.bck-ol-5 li:before,
-		.content .workspace ul li ol.bck-ol-5 li:before {
-			content: counter(bck-li-counter5, lower-alpha) " ";
+	/*Lista ordenada alpha azul*/
+		.content ol.bck-ol-6 li:before,
+		.content .texto_curso ol.bck-ol-6 li:before,
+		.content .workspace ul li ol.bck-ol-6 li:before {
+			content: counter(bck-li-counter, upper-alpha) " ";
 			margin-left: -0.9em;
 			font-weight: bold;
-			font-size: 2.0rem;
+			font-size: 2.2rem;
 			text-align: right;
-			color: #414141;
-			background-color: #fff;
+			color: #00ADEE;
 			padding-bottom: 4px;
 			padding-right: 9px;
 			padding-left: 8px;
-			border-radius: 100%;
 			margin-top: 0px;
 		}
-		.content .bck-ol-5 li{
-			counter-increment: bck-li-counter5 1;
+		.content .cke_contents .bck-ol-6 li,
+		.content .texto_curso .bck-ol-6 li,
+		.content .workspace ul li .bck-ol-6 li {
+		   	counter-increment: bck-li-counter;
+		}
+
+			.content .cke_contents .bck-ol-6,
+			.content .texto_curso .bck-ol-6,
+			.content .workspace ul li .bck-ol-6 {
+			counter-reset: bck-li-counter;
 		}
 
 	/*Lista desordenada 1*/
