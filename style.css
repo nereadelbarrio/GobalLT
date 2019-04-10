@@ -282,6 +282,7 @@
 		position: relative;
 		left: 10px;
 		float: left;
+		
 	}
 
 	.content_type_clase_GobalLT .slider-indicators {
@@ -1005,12 +1006,13 @@
 
 		.content_type_clase_GobalLT .navbar-content:before {
 		   content: " ";
-		   background-image: url(logocengage.jpg);
+		   background-image: url(images/logocengage.jpg);
 			height: 60px;
 			width: 135px;
 			margin-top: 9px;
 			margin-right: 15px;
 			left: 0px;
+			top: 6px;
 		}
 
 		.content_type_clase_GobalLT .slider-indicators li.active,
