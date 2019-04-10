@@ -637,7 +637,13 @@
 		color: #B63B1E;
     		font-weight: bold;
 		}
-
+	
+	.bck-title9 {
+		font-size: 3.2rem;
+    		margin-bottom: 15px;
+    		color: #156F35
+    		font-weight: bold;
+	}
 	
 
 	.content .bck-ol {
@@ -1194,6 +1200,14 @@
 		color: #B63B1E;
     		font-weight: bold;
 	}
+
+	.bck-title9 {
+		font-size: 3.2rem;
+    		margin-bottom: 15px;
+    		color: #156F35
+    		font-weight: bold;
+	}
+
 
 	/*Titulo video*/
 		.titlevideo {
