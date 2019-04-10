@@ -22,7 +22,7 @@
 				{ name: 'Título part5', element: 'h4', attributes: { 'class': 'bck-title6'} },
 				{ name: 'Título part6', element: 'h4', attributes: { 'class': 'bck-title7'} },
 				{ name: 'Título rojo', element: 'h5', attributes: { 'class': 'bck-title8'} },
-				{ name: 'Título verde', element: 'h4', attributes: { 'class': 'bck-title9'} },
+				{ name: 'Título verde', element: 'h5', attributes: { 'class': 'bck-title9'} },
 				{ name: 'Título video', element: 'h4', attributes: { 'class': 'titlevideo'} },
 				{ name: 'Subtítulo', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Azul', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
