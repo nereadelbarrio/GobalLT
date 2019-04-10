@@ -1359,7 +1359,20 @@
 		.info-template .info-title.shown{
 			color: #6D2470;
 		}
-
+		.info-template .info-title{
+			position: relative;
+			-webkit-box-sizing: border-box;
+			    -moz-box-sizing: border-box;
+			    box-sizing: border-box;
+			    height: 0;
+			    overflow: hidden;
+			    color: #6D2470;
+			    -webkit-transition: all ease-in-out .5s;
+			    -o-transition: all ease-in-out .5s;
+			    -moz-transition: all ease-in-out .5s;
+			    transition: all ease-in-out .5s;
+			    cursor: pointer;
+		}
 
 		.fa-times:before{
 			color: #6D2470;
