@@ -1659,6 +1659,7 @@
 		#actividad .content .texto_curso ul.bck-ul-3 li,
 		#actividad .content .workspace ul li ul.bck-ul-3 li{
 			list-style: none;
+			font-weight: 500;
 		}
 		
 		#actividad .content .cke_contents .bck-ul-3 li:before, 
