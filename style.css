@@ -1496,6 +1496,34 @@
 			counter-increment: bck-li-counter4 1;
 		}
 
+		/*Lista ordenada alpha azul*/
+		.content ol.bck-ol-5 li:before,
+		.content .texto_curso ol.bck-ol-5 li:before,
+		.content .workspace ul li ol.bck-ol-5 li:before {
+			content: counter(bck-li-counter, upper-alpha) " ";
+			margin-left: -0.9em;
+			font-weight: bold;
+			font-size: 2.0rem;
+			text-align: right;
+			color: #00ADEE;
+			padding-bottom: 4px;
+			padding-right: 9px;
+			padding-left: 8px;
+			margin-top: 0px;
+		}
+		.content .cke_contents .bck-ol-5 li,
+		.content .texto_curso .bck-ol-5 li,
+		.content .workspace ul li .bck-ol-5 li {
+		   	counter-increment: bck-li-counter 1;
+		}
+
+			.content .cke_contents .bck-ol-5,
+			.content .texto_curso .bck-ol-5,
+			.content .workspace ul li .bck-ol-5 {
+			counter-reset: bck-li-counter 1;
+		}
+
+
 	/*Lista ordenada Numeral Azul*/
 		.content .cke_contents .bck-ol-3,
 		.content .texto_curso .bck-ol-3,
