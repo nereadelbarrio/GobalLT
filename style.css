@@ -1402,6 +1402,10 @@
 			font-weight: 600;
 		}
 
+		.popover-background{
+			background: #9999993b;
+		}
+
 	/*Tool tip*/
 		.bck-tooltip {
 			text-decoration: none;
