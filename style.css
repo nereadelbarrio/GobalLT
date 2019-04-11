@@ -1737,34 +1737,35 @@
 			border-top: 3px solid #CBDB2B;
 		}
 
-	/*Desplegable 2*/
+/*Desplegable azul*/
 		.desplegable-2 .bck-dropdown-titulo{
-		    color: #204e64;
-		    font-size: 1.6rem;
 		    position: relative;
 		    float: right;
 		    margin-top: 23px;
 		    z-index: 2;
 		    text-align: right;
-		    font-size: 2.8rem;
-		    margin-right: 10px;
-		    color: #414141;
+		    font-size: 3rem;
+		    color: #00ADEE;
 		}
 
-		.desplegable-2 .bck-dropdown-titulo:after{
-			content: "";
-			background: url(guisante.png);
-			padding-left: 69px;
-			background-size: cover;
-			padding-top: 33px;
-			top: 15px;
-			right: -15px;
-			position: relative;
-			background-repeat: no-repeat;
+		.bck-dropdown-icon {
+			color: #00ADEE;
 		}
 
+	
+		.fa-chevron-down:before {
+			content: "\f1c7";
+			font-size: 3.0rem;
+		}
+
+		.bck-dropdown-icon>.fa {
+			border: none;
+			padding-top: 14px;
+		}
+
+		
 		.desplegable-2:not(.open) .bck-dropdown-button{
-			border-bottom: 2px solid #cbdb2b;
+			border-bottom: 2px solid #00ADEE;
 		}
 
 		.desplegable-2 .bck-dropdown-button .fa-chevron-up:before,
@@ -1774,12 +1775,7 @@
 
 		.content_type_clase_GobalLT .desplegable-2 .bck-dropdown-content{
 			background-color: #fff;
-			border-top: 2px solid #CBDB2B;
-			border-bottom: 10px solid #CBDB2B;
-			border-right: 2px solid #CBDB2B;
-			border-left: 10px solid #CBDB2B;
-			border-radius: 25px;
-		    display: none;
+			border-top: 2px solid #00adee;
 			position: relative;
 			width: 100%;
 			top: -2px;
