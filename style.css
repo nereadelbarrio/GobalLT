@@ -719,6 +719,11 @@
 		color: #FFF685;
 	}
 
+	/*Azul claro*/
+	.bck-enfasis-5 {
+		color: #00ADEE;
+	}
+
 	.bck-conversation, .bck-listening, .bck-question {
 		display: inline-block;
 		text-indent: 35px;
