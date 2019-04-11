@@ -41,6 +41,7 @@
 				{ name: 'Caja Ideas Focus', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-tip' } },
 				{ name: 'Caja verde', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-verde' } },
 				{ name: 'Caja writing', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-writing' } },
+				{ name: 'Caja writing', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box.bordeazul' } },
 
 
 				{ name: 'Lista Ordenada Alpha roja', element: 'ol', attributes: { 'class': 'bck-ol' } },
