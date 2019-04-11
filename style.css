@@ -1400,7 +1400,19 @@
 			    box-shadow: 0 10px 20px 0 rgba(50,50,50,0.4);
 			    margin-bottom: 20px;
 		}
+
 		
+		/*Caja borde azul*/
+		.bck-box.box-bordeazul {
+		    border: 2px solid #00ADEE;
+		    box-shadow: 0 10px 20px 0 rgba(50,50,50,0.4);
+		}
+
+		.content_type_clase_GobalLT .bck-box.bordeazul .bck-title,
+		.bck-box.bordeazul .bck-title{
+			font-weight: bold;
+		}
+
 		/*Caja writing*/
 		.content_type_clase_GobalLT .bck-box.box-writing,
 		.bck-box.box-writing {
