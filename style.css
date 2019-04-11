@@ -713,6 +713,11 @@
 	    padding: 0 10px;
 	    width: max-content;
 	}
+	
+	/*Amarillo*/
+	.bck-enfasis-5 {
+		color: #FFF685;
+	}
 
 	.bck-conversation, .bck-listening, .bck-question {
 		display: inline-block;
