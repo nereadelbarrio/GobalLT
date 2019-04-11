@@ -30,6 +30,7 @@
 				{ name: 'Cuadrado', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'Negro', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'Amarillo', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
+				{ name: 'Aul claro', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
 
 				{ name: 'Caja negra', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-negra' } },
 				{ name: 'Caja learning', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-learning' } },
