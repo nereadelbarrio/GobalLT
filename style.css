@@ -1067,7 +1067,7 @@
 		.content_type_clase_GobalLT .publisher-navbar .dropdown button:hover {
 			background-color: #fff;
 			color: #103d5f;
-			border-right: 3px solid #103d5f;
+			border-right: 5px dotted #103d5f;
 			margin-top: 5px;
 		}
 
