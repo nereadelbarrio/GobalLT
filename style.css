@@ -274,7 +274,7 @@
 
 	.content_type_clase_GobalLT .navbar-content:before {
 		content: " ";
-		background-image: url(logo.png);
+		background-image: url(logotransparent.png);
 		height: 20px;
 		background-repeat: no-repeat;
 		width: 100px;
@@ -1065,7 +1065,7 @@
 
 		.content_type_clase_GobalLT .navbar-content:before {
 		   content: " ";
-		   background-image: url(images/logocengage.jpg);
+		   background-image: url(images/logotransparent.png);
 			height: 60px;
 			width: 135px;
 			margin-top: 9px;
