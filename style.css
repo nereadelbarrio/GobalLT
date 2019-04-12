@@ -547,7 +547,8 @@
     	background-color: #00ADEE;
     	font-weight: bold;
     	color: #ffff;
-    	padding-right: 10px;
+    	padding-top: 4px;
+    	padding-bottom: 4px;
 	}
 
 	.bck-title4:before {
