@@ -496,13 +496,15 @@
 	}
 /*titulo part1*/
 
-	.bck-title2 {
+		.bck-title2 {
 		font-size: 2.2rem;
     	width: max-content;
     	background-color: #00ADEE;
     	font-weight: bold;
     	color: #ffff;
     	padding-right: 10px;
+	    padding-bottom: 4px;
+	    padding-top: 3px;
 	}
 
 	.bck-title2:before {
@@ -526,6 +528,8 @@
     	font-weight: bold;
     	color: #ffff;
     	padding-right: 10px;
+	    padding-bottom: 4px;
+	    padding-top: 3px;
 	}
 
 	.bck-title3:before {
@@ -548,6 +552,8 @@
     	font-weight: bold;
     	color: #ffff;
     	padding-right: 10px;
+	    padding-bottom: 4px;
+	    padding-top: 3px;
 	}
 
 	.bck-title4:before {
@@ -571,6 +577,8 @@
     	font-weight: bold;
     	color: #ffff;
     	padding-right: 10px;
+	    padding-bottom: 4px;
+	    padding-top: 3px;
 	}
 
 	.bck-title5:before {
@@ -594,6 +602,8 @@
     	font-weight: bold;
     	color: #ffff;
     	padding-right: 10px;
+	    padding-bottom: 4px;
+	    padding-top: 3px;
 	}
 
 	.bck-title6:before {
@@ -617,6 +627,8 @@
     	font-weight: bold;
     	color: #ffff;
     	padding-right: 10px;
+	    padding-bottom: 4px;
+	    padding-top: 3px;
 	}
 
 	.bck-title7:before {
@@ -1091,15 +1103,15 @@
     	font-weight: bold;
     	color: #ffff;
 	}
-	/*titulo part1*/
-
-	.bck-title2 {
+		.bck-title2 {
 		font-size: 2.2rem;
     	width: max-content;
     	background-color: #00ADEE;
     	font-weight: bold;
     	color: #ffff;
     	padding-right: 10px;
+	    padding-bottom: 4px;
+	    padding-top: 3px;
 	}
 
 	.bck-title2:before {
@@ -1123,6 +1135,8 @@
     	font-weight: bold;
     	color: #ffff;
     	padding-right: 10px;
+	    padding-bottom: 4px;
+	    padding-top: 3px;
 	}
 
 	.bck-title3:before {
@@ -1145,6 +1159,8 @@
     	font-weight: bold;
     	color: #ffff;
     	padding-right: 10px;
+	    padding-bottom: 4px;
+	    padding-top: 3px;
 	}
 
 	.bck-title4:before {
@@ -1168,6 +1184,8 @@
     	font-weight: bold;
     	color: #ffff;
     	padding-right: 10px;
+	    padding-bottom: 4px;
+	    padding-top: 3px;
 	}
 
 	.bck-title5:before {
@@ -1191,6 +1209,8 @@
     	font-weight: bold;
     	color: #ffff;
     	padding-right: 10px;
+	    padding-bottom: 4px;
+	    padding-top: 3px;
 	}
 
 	.bck-title6:before {
@@ -1214,6 +1234,8 @@
     	font-weight: bold;
     	color: #ffff;
     	padding-right: 10px;
+	    padding-bottom: 4px;
+	    padding-top: 3px;
 	}
 
 	.bck-title7:before {
