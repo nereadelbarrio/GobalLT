@@ -1727,6 +1727,10 @@
 	/*Desplegable Lectura*/
 		.bck-dropdown-titulo {
 			color: #0072BD;
+			color: #0072BD;
+			font-size: 3rem;
+			font-weight: 600;
+			padding-bottom: 10px;
 		}
 
 		.bck-dropdown-icon {
