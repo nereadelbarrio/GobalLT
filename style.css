@@ -258,9 +258,19 @@
 	}
 	/*navegador slides*/
 	.navigator .slider-control.left, .navigator .slider-control.right{
-		color: #0D72BA;
-   		font-weight: lighter;
+	    position: static;
+	    height: auto;
+	    width: 100%;
+	    background-color: transparent;
+	    border-radius: 0px;
+	    margin: 0px;
+	    opacity: 1;
+	    text-shadow: none;
+	    color: #0D72BA;
+	    font-size: 2.3rem;
+	    font-weight: lighter;
 	}
+
 	body:not(.android) .main-navigator .slider-control:not(.disabled):hover {
 	    color: rgb(241,94,36);
 	}
