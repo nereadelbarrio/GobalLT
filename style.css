@@ -1742,7 +1742,7 @@
 		.fa-chevron-down:before {
 			content: "\f02d";
 		    font-size: 3.5rem;
-		    color: #0072BD
+		    color: #0072BD;
 		}
 
 		.bck-dropdown-icon>.fa {
