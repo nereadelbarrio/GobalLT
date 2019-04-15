@@ -246,6 +246,15 @@
 	    color: #ffff;
 	 }
 
+	#indice .unit-content .header .title{
+			color: #09426b;
+		}
+
+		.btn-primary, .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus{
+			background-color: #0D72BA;
+		}
+
+
 /* Navbar (Breadcums) */
 	.content_type_clase_GobalLT .publisher-navbar {
 		position: fixed;
