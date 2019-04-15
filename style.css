@@ -1769,17 +1769,17 @@
 		    color: #00ADEE;
 		}
 
-		.bck-dropdown-icon {
+		.desplegable-2 .bck-dropdown-icon {
 			color: #00ADEE;
 		}
 
 	
-		.fa-chevron-down:before {
+		.desplegable-2 .fa-chevron-down:before {
 			content: "\f1c7";
 			font-size: 3.0rem;
 		}
 
-		.bck-dropdown-icon>.fa {
+		.desplegable-2 .bck-dropdown-icon>.fa {
 			border: none;
 			padding-top: 14px;
 		}
