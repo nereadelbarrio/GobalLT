@@ -1790,7 +1790,7 @@
 
 		.desplegable-2 .bck-dropdown-button .fa-chevron-up:before,
 		.desplegable-2 .bck-dropdown-button .fa-chevron-down:before{
-			content:""\f1c7"";
+			content:"\f1c7";
 		}
 
 		.content_type_clase_GobalLT .desplegable-2 .bck-dropdown-content{
