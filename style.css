@@ -1776,7 +1776,8 @@
 	
 		.desplegable-2 .fa-chevron-down:before {
 			content: "\f1c7";
-			font-size: 3.0rem;
+			font-size: 3.5rem;
+			color: #00ADEE;
 		}
 
 		.desplegable-2 .bck-dropdown-icon>.fa {
@@ -1793,6 +1794,7 @@
 		.desplegable-2 .bck-dropdown-button .fa-chevron-down:before{
 			content:"\f1c7";
 			color: #00ADEE;
+			font-size: 3.5rem;
 		}
 
 		.content_type_clase_GobalLT .desplegable-2 .bck-dropdown-content{
