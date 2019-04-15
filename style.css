@@ -1757,7 +1757,7 @@
 			border-top: 3px solid #CBDB2B;
 		}
 
-/*Desplegable azul*/
+	/*Desplegable azul*/
 		.desplegable-2 .bck-dropdown-titulo{
 		    position: relative;
 		    float: right;
@@ -1790,12 +1790,13 @@
 
 		.desplegable-2 .bck-dropdown-button .fa-chevron-up:before,
 		.desplegable-2 .bck-dropdown-button .fa-chevron-down:before{
-			content:"";
+			content:""\f1c7"";
 		}
 
 		.content_type_clase_GobalLT .desplegable-2 .bck-dropdown-content{
 			background-color: #fff;
 			border-top: 2px solid #00adee;
+			border-left: 0;
 			position: relative;
 			width: 100%;
 			top: -2px;
