@@ -249,10 +249,13 @@
 	#indice .unit-content .header .title{
 			color: #09426b;
 		}
+	.btn-primary, .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus{
+				background-color: #0D72BA;
+	}
 
-		.btn-primary, .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus{
-			background-color: #0D72BA;
-		}
+	a:hover, a:active, a:focus{
+		color: rgb(241,94,36);
+	}
 
 
 /* Navbar (Breadcums) */
