@@ -1842,6 +1842,15 @@
 			text-align: center;
 		}
 
+		/*Icono audio*/
+		#actividad .player.audio{
+			background-position: 0;
+		    color: transparent;
+		    background-image: URL(images/boton-de-reproduccion.png);
+		}
+
+
+
 	/*SECCIÃ“N portada*/
 		.content_type_clase_GobalLT #actividad .portada .class_slide {
 		    padding: 0px;
