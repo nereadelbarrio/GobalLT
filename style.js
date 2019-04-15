@@ -52,8 +52,8 @@
 				{ name: 'Lista Desordenada Morada', element: 'ul', attributes: { 'class': 'bck-ul-2' } },
 				{ name: 'Lista Desordenada Azul', element: 'ul', attributes: { 'class': 'bck-ul-3' } },
 
-				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'desplegable-2' } },
-				{ name: 'Desplegable azul', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'desplegable-azul' } }
+				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'desplegable-2' } }
+		
 			]
 		},
 
