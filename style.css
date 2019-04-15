@@ -1724,9 +1724,9 @@
 			background-color: rgba(255, 255, 255, 0);
 		}
 
-	/*Desplegable1*/
+	/*Desplegable Lectura*/
 		.bck-dropdown-titulo {
-			color: #CBDB2B;
+			color: #0072BD;
 		}
 
 		.bck-dropdown-icon {
@@ -1734,13 +1734,15 @@
 		}
 
 		.fa-chevron-up:before {
-			content: "\f0f6";
-			font-size: 3.0rem;
+			content: "\f02d";
+		    font-size: 3.5rem;
+		    color: #0072BD;	
 		}
 
 		.fa-chevron-down:before {
-			content: "\f0f6";
-			font-size: 3.0rem;
+			content: "\f02d";
+		    font-size: 3.5rem;
+		    color: #0072BD
 		}
 
 		.bck-dropdown-icon>.fa {
@@ -1752,9 +1754,8 @@
 			max-height: 100%;
 			max-width: 100%;
 			padding: 2%;
-			background-color: rgba(203, 219, 43, 0.2);
-			border-left: 5px solid #CBDB2B;
-			border-top: 3px solid #CBDB2B;
+			background-color: #ffff;;
+			border-top: 5px solid #0072BD;
 		}
 
 	/*Desplegable azul*/
