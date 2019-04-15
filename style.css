@@ -228,6 +228,24 @@
 	}
 /**/
 
+/*toc*/
+	#indice .units ul li.active:not(.disabled), 
+	body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
+	 #indice .units ul li:focus:not(.disabled){
+	 	background: #0D71B9;
+	    border-radius: 0;
+	    border-left: 20px solid #F15E24;
+	 }
+	 #indice .units ul li{
+	 	border-radius: 0;
+    	background-color: #0D71B9;
+	 }
+	 #indice .units ul li a .title{
+	 	font-size: 18px;
+	    font-weight: 600;
+	    color: #ffff;
+	 }
+
 /* Navbar (Breadcums) */
 	.content_type_clase_GobalLT .publisher-navbar {
 		position: fixed;
