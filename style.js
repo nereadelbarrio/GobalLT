@@ -54,7 +54,7 @@
 
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'desplegable-2' } }
 		
-			],stylesToRemove: ["bck-box", "center"]
+			]
 		},
 
 		init: function () {
